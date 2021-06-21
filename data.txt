@@ -1,0 +1,58 @@
+[
+    {
+        "fname": "Jahidul",
+        "lname": "islam",
+        "gender": "male",
+        "dob": "2021-06-15",
+        "religion": "islam",
+        "presAddress": "24 Maola Box Sardar Lane, Sutrapur, Dhaka 1100",
+        "permAddress": "",
+        "phone": "01748684914",
+        "email": "jahid@gmail.com",
+        "website": "https:\/\/www.w3schools.com\/html\/html_form_input_types.asp",
+        "username": "jahidul45",
+        "password": "123"
+    },
+    {
+        "fname": "Dishan",
+        "lname": "ahmed",
+        "gender": "male",
+        "dob": "2021-06-10",
+        "religion": "islam",
+        "presAddress": "gazipur",
+        "permAddress": "Gazipur",
+        "phone": "555555",
+        "email": "dishan@gamil.com",
+        "website": "https:\/\/www.w3schools.com\/html\/html_form_input_types.asp",
+        "username": "dishan",
+        "password": "7896"
+    },
+    {
+        "fname": "Fahim",
+        "lname": "Faisal",
+        "gender": "male",
+        "dob": "2021-06-16",
+        "religion": "islam",
+        "presAddress": "Maymansingh",
+        "permAddress": "Maymansingh",
+        "phone": "8555",
+        "email": "fahim@outlook.com",
+        "website": "https:\/\/www.w3schools.com\/html\/html_form_input_types.asp",
+        "username": "fahim",
+        "password": "147"
+    },
+    {
+        "fname": "Diganta",
+        "lname": "Mollah",
+        "gender": "male",
+        "dob": "2021-06-23",
+        "religion": "islam",
+        "presAddress": "Sutrapur",
+        "permAddress": "Sutrapur",
+        "phone": "1236478",
+        "email": "diganta@gamil.com",
+        "website": "https:\/\/www.w3schools.com\/html\/html_form_input_types.asp",
+        "username": "diganta",
+        "password": "78963"
+    }
+]
